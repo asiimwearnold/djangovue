@@ -1,0 +1,16 @@
+-Todo List
+
+
+-install python and django
+-install andsetup vue
+-include font awesome
+-setup base template
+-create django app and model for products
+-Create serializer and view for the products
+-view a product
+        -create views in django
+        -create view page for showing products
+        -add links to detail page
+-setup opp vuex / state
+-make it posible to add to create
+        -add functionality to vuex
